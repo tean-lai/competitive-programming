@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class WeirdAlgorithm {
+public class CSESWeirdAlgorithm {
     public static void main(String[] args) throws IOException {
         BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter pw = new PrintWriter(System.out);
